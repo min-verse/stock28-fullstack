@@ -1,0 +1,2 @@
+class HistorialStockDataController < ApplicationController
+end
