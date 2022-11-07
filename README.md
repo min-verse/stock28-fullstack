@@ -78,4 +78,16 @@ The Stock28 community only continues to grow in collaboration!
     <img width=75% src="./public/images/readme_images/add_stocks.png" />
 </p>
 
-a
+Finally, navigating to "Add Stocks" in the side meny will allow users to search for stocks by ticker symbol and render all company information, along with an up-to-date chart of stock information onto the screen.
+
+Like the homepage and portfolio page, the user can click "Refresh Data" <em>at any time</em> to request, receive, and dynamically render real-time stock data to help our users make the <strong>best</strong> decision for their financial wellbeing.
+
+This search function will also inform you if you have already added the stock to your portfolio.
+
+## Final Overview
+
+Stock28 is a flexible, robust, and collaborative investing experience. If you're a finance professional or a casual investor, feel free to join our app today!
+
+### Developer Notes
+
+Stock28 utilizes a personalized caching algorithm to reduce needless and excessive API calls
