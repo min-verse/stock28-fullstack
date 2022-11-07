@@ -8,8 +8,9 @@ Add other users to compare portfolios and optimize yours!
 
 Try it out for yourself today: https://stock28.netlify.app/
 
-[Stack: React.js, Ruby on Rails, PostgreSQL]
-[Libraries: Redux, JWToken Authentication, Chart.js, React Router, bcrypt]
+[<em>Stack:</em> React.js, Ruby on Rails, PostgreSQL]
+
+[<em>Libraries:</em> Redux, JWToken Authentication, Chart.js, React Router, bcrypt]
 
 ## User Authentication - Sign Up Today!
 
