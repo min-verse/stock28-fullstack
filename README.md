@@ -50,3 +50,32 @@ See the breakdown of your portfolio's stocks rendered beautifully onto the scree
 
 You can remove a stock from your portfolio at any time, including on the homepage, and all our graphs and data visualizations with dynamically update alongside your real-time financial decisions!
 
+## Follow Other Stock28 User Portfolios and Adding Followings
+
+<p align="center">
+    <img width=75% src="./public/images/readme_images/followings.png" />
+</p>
+
+Navigate to the "Followed Users" option in the side menu to see an aggregation of all users that you have followed. Click on their names to dynamically render their portfolio breakdowns onto the doughnut chart and compare your performances to theirs.
+
+Stock28 boasts a collborative investing experience!
+
+As for adding users, please see below:
+
+<p align="center">
+    <img width=75% src="./public/images/readme_images/search_users.png" />
+</p>
+
+Our search function is allows our users to look up other users and see the results rendered onto the screen. It will also tell you if you are already following them and disable the option to follow them again.
+
+Furthermore, a preview of the other users' portfolio will be shown, helping inform you whether or not you want to follow them based on their stocks.
+
+The Stock28 community only continues to grow in collaboration!
+
+## Adding Stocks
+
+<p align="center">
+    <img width=75% src="./public/images/readme_images/add_stocks.png" />
+</p>
+
+a
